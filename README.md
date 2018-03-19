@@ -1,6 +1,6 @@
 # XPath Query
 
-A quick hacky script to perform xpath queries on the command line on an XML file
+A quick hacky script to perform XPath queries on the command line
 
 ## Install
 
